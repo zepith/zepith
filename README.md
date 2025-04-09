@@ -27,10 +27,10 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=zepith&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 연락하기
-- **이메일**: zepith@gmail.com
-- **LinkedIn**: [[프로필 링크](https://www.notion.so/About-Me-19dd5bf2c24180139dbfc628aee69d59)]
+- **E-mail**: zepith@gmail.com
+- **Notion**: [[zepith world](https://www.notion.so/About-Me-19dd5bf2c24180139dbfc628aee69d59)]
 - **Instar**: [@darr_____](https://www.instagram.com/darr_____)
-- **블로그**: [[블로그 주소](https://m.blog.naver.com/darr_____)]
+- **Blog**: [[다르마카쥬](https://m.blog.naver.com/darr_____)]
 
 ## 🔥 최근 프로젝트
 - [프로젝트 리스트](https://www.notion.so/ZEPITH-FOLIO-19dd5bf2c2418016b670fc3b9d42f6cb)
