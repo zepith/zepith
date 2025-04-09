@@ -29,8 +29,8 @@
 ## 📫 연락하기
 - **이메일**: zepith@gmail.com
 - **LinkedIn**: [[프로필 링크](https://www.notion.so/About-Me-19dd5bf2c24180139dbfc628aee69d59)]
-- **Twitter**: [@yourTwitter](https://twitter.com/yourTwitter)
-- **블로그**: [블로그 주소]
+- **Instar**: [@darr_____](https://www.instagram.com/darr_____)
+- **블로그**: [[블로그 주소](https://m.blog.naver.com/darr_____)]
 
 ## 🔥 최근 프로젝트
 - [프로젝트 리스트](https://www.notion.so/ZEPITH-FOLIO-19dd5bf2c2418016b670fc3b9d42f6cb)
