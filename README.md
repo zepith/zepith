@@ -28,7 +28,7 @@
 
 ## 📫 연락하기
 - **E-mail**: zepith@gmail.com
-- **Notion**: [[zepith world](https://www.notion.so/About-Me-19dd5bf2c24180139dbfc628aee69d59)]
+- **Notion**: [[about zepith](https://www.notion.so/About-Me-19dd5bf2c24180139dbfc628aee69d59)]
 - **Instar**: [@darr_____](https://www.instagram.com/darr_____)
 - **Blog**: [[다르마카쥬](https://m.blog.naver.com/darr_____)]
 
