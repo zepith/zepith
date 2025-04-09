@@ -1,23 +1,22 @@
 # zepith
-# 안녕하세요, 저는 [이름]입니다!
+# 안녕하세요, 저는 강혜원입니다!
 
-## 👨‍💻 프론트엔드 개발자
+## 👨‍💻 컨텐츠 크리에이터 입니다.
 
-- 🔭 현재 [회사명]에서 근무 중입니다.
-- 🌱 현재 `React.js`, `Next.js`와 같은 현대적인 JavaScript 프레임워크를 공부하고 있습니다.
-- 👯 다른 개발자들과 협력하여 오픈 소스 프로젝트에 기여하고 싶습니다.
-- 🤔 사용자 경험을 개선하기 위한 아이디어를 찾고 있습니다.
-- 💬 `JavaScript`, `React`, `CSS` 등에 관해 이야기하는 것을 좋아합니다.
-- 📫 연락 방법: [이메일 주소]
-- 😄 대명사: He/Him
-- ⚡ 재미있는 사실: 커피 없이는 코드를 작성할 수 없습니다!
+- 🔭 디자이너 및 머천다이저로 일했던 경험이 있습니다.
+- 🌱 현재 그린컴퓨터 학원에서 공부중입니다.
+- 👯 다른 영상제작자들과 함께 영상업계에 기여하고 싶습니다.
+- 🤔 더 높이 가고자 노력하고 있습니다.
+- 💬 예쁘거나 실용적이거나 재미있는 것 등에 관해 이야기하는 것을 좋아합니다.
+- 📫 연락 방법: [zepith@gmail.com]
+- 😄 대명사: 조용한adhd, 아이디어뱅크
+- ⚡ 재미있는 사실: infp와 intp을 왔다갔다 하는데 J를 추구합니다.
 
 ## 🛠 기술 스택
-- **언어**: JavaScript (ES6+), TypeScript
-- **프레임워크 및 라이브러리**: React.js, Next.js, Redux, Recoil, Axios, Zustand
-- **스타일링**: CSS, SCSS, Emotion
-- **툴**: Git, GitHub, Figma, Visual Studio Code
-- **기타**: Responsive Design, RESTful API, GraphQL
+- **언어**: JavaScript (ES6+)
+- **스타일링**: CSS
+- **툴**: Git, GitHub, Figma, Visual Studio Code, adobe (ai,ps,ae,pr)
+- **기타**: Responsive Design, notion
 
 ## 💻 언어 사용량 통계
 
@@ -28,7 +27,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=zepith&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 연락하기
-- **이메일**: your.email@example.com
+- **이메일**: zepith@gmail.com
 - **LinkedIn**: [LinkedIn 프로필 링크]
 - **Twitter**: [@yourTwitter](https://twitter.com/yourTwitter)
 - **블로그**: [블로그 주소]
